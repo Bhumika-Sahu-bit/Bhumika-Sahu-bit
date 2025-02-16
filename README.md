@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhumika-Sahu
 - Full-stack developer fresher
-- currently learning react 
+
 
 
 <!---
