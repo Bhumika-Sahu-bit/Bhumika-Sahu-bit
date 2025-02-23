@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhumika-Sahu
-- Full-stack developer fresher
+- Full-stack developer
 
 
 
