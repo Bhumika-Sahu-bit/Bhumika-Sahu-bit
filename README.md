@@ -1,68 +1,104 @@
 <div align="center">
-  <h1>👋 Hey there, I'm <strong>Bhumika Sahu</strong></h1>
-  <p>🌐 Full Stack Developer | Web Enthusiast | Problem Solver</p>
-  <p>
-    💻 I build responsive and user-friendly websites and web apps using modern technologies.
-  </p>
-  <p>
-    🌍 <a href="https://bhumika-sahu-bit.github.io/my-portfolio/">View My Portfolio</a> | 📫 <a href="mailto:bhumi16124@gmail.com">Email Me</a>
-  </p>
+
+# 👋 Hi, I'm Bhumika Sahu  
+### 💻 Full Stack Developer | MERN Stack | Problem Solver  
+
+🌐 [Portfolio](https://bhumika-sahu-bit.github.io/my-portfolio/)  
+📧 bhumi16124@gmail.com  
+
 </div>
 
 ---
 
 ## 🧠 About Me
-I’m a passionate Full Stack Developer focused on creating modern and user-friendly web applications. I enjoy transforming ideas into elegant web solutions and turning complex problems into simple intuitive experiences. :contentReference[oaicite:1]{index=1}
+
+- 🎓 BCA Student  
+- 💻 Passionate about Full Stack Web Development  
+- 🚀 Building real-world MERN stack projects  
+- 📈 Actively improving DSA & problem-solving skills  
+- 🌱 Currently learning advanced backend & system design  
 
 ---
 
-## 💻 Skills
+# 🛠 Tech Stack
 
-### 🔹 Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- React.js  
-- Bootstrap  
-- Tailwind CSS  
+## 🚀 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+</p>
 
+## ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-### 🔹 Backend
-- Node.js  
-- PHP  
-- Express.js  
-- MongoDB  
-- MySQL  
-- PostgreSQL :contentReference[oaicite:3]{index=3}
+## 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-### 🛠 Tools & Others
-- Git & GitHub  
-- VS Code  
-- Command Line  
-- ChatGPT & Cursor AI :contentReference[oaicite:4]{index=4}
+## 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📂 Featured Projects
-Here are some projects showcased in my portfolio:
+# 📂 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **AI Code Reviewer** | AI based website to review code | MERN + Tailwind |
-| **College Library** | Notes sharing and college utility app | Node.js + MongoDB |
-| **Snapmood** | Social connection app | Node.js + Express |
-| **Interactive Quiz Platform** | Quiz app with leaderboard | React + IndexedDB |
-| **Weather App** | Realtime weather display | HTML, CSS, JS |
-| **E-commerce Website** | Clothing store frontend | HTML, CSS, JS |
-| **Travel Booking Website** | Responsive travel UI | HTML, Bootstrap | :contentReference[oaicite:5]{index=5}
+### 🔹 AI Code Reviewer  
+> MERN + Tailwind based intelligent code review platform  
 
----
+### 🔹 College Library System  
+> Notes sharing and college utility web app  
 
-## 📫 Contact
-📧 Email: **bhumi16124@gmail.com**  
-🌐 Portfolio: https://bhumika-sahu-bit.github.io/my-portfolio/ :contentReference[oaicite:6]{index=6}
+### 🔹 SnapMood  
+> Social connection platform using Node & Express  
+
+### 🔹 Interactive Quiz Platform  
+> React based quiz system with leaderboard  
+
+### 🔹 Weather App  
+> Real-time weather using API  
 
 ---
 
-Thanks for visiting my GitHub! 🚀  
-Let’s build something amazing together 💡
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bhumika-Sahu-bit&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-Sahu-bit&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Bhumika-Sahu-bit&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Crack a service-based company
+- 🚀 Master MERN Stack
+- 📚 Strong DSA foundation
+- 🌍 Build scalable full-stack applications
+- 🤝 Contribute to open-source
+
+---
+
+<div align="center">
+
+### ⭐ “Consistency beats motivation.”  
+
+Thanks for visiting my profile 💙
+
+</div>
