@@ -101,6 +101,4 @@
 
 Thanks for visiting my profile 💙
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bhumika-Sahu-bit)
-
 </div>
