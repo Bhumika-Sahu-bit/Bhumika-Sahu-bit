@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Bhumika Sahu  
 ### 💻 Full Stack Developer | MERN Stack | Problem Solver  
 
-🌐 [Portfolio](https://bhumika-sahu-bit.github.io/my-portfolio/)  
+🌐 [Portfolio](https://portfolio-ebon-rho-fi2sxp0edj.vercel.app/)  
 📧 bhumi16124@gmail.com  
 
 </div>
